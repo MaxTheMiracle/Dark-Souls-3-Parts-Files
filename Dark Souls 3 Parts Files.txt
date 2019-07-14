@@ -1,0 +1,834 @@
+9940   Overlord Leg
+HD_A_1000   Dragon Head
+BD_A_1001   Dragon Body
+AM_A_1002   Dragon Arms
+LG_A1003   Dragon Legs
+   
+   ### Armor ###
+HD_A_1900   Fallen Knight Helm
+BD_A_1900   Fallen Knight Armor
+AM_A_1900   Fallen Knight Gauntlets
+LG_A1900   Fallen Knight Trousers
+HD_A_1950   Knight Helm
+BD_A_1950   Knight Armor
+AM_A_1950   Knight Gauntlets
+LG_A1950   Knight Leggings
+HD_A_2000   Vilhelm's Helm
+BD_A_2000   Vilhelm's Armor
+AM_A_2000   Vilhelm's Gauntlets
+LG_A2000   Vilhelm's Leggings
+HD_A_2100   Firelink Helm
+BD_A_2100   Firelink Armor
+AM_A_2100   Firelink Gauntlets
+LG_A2100   Firelink Leggings
+HD_A_2150   Sellsword Helm
+BD_A_2150   Sellsword Armor
+AM_A_2150   Sellsword Gauntlet
+LG_A2150   Sellsword Trousers
+HD_A_2200   Herald Helm
+BD_A_2200   Herald Armor
+AM_A_2200   Herald Gloves
+LG_A2200   Herald Trousers
+HD_A_2250   Sunless Veil
+BD_A_2250   Sunless Armor
+AM_A_2250   Sunless Gauntlets
+LG_A2250   Sunless Leggings
+HD_A_2300   Black Hand Hat
+BD_A_2300   Black Hand Armor
+AM_A_2300   Assassin Gloves
+LG_A2300   Assassin Trousers
+HD_A_2310   Assassin Hood
+BD_A_2310   Assassin Armor
+HD_A_2350   Xanthous Crown
+BD_A_2350   Xanthous Overcoat
+AM_A_2350   Xanthous Gloves
+LG_A2350   Xanthous Trousers
+HD_A_2400   Northern Helm
+BD_A_2400   Northern Armor
+AM_A_2400   Northern Gloves
+LG_A2400   Northern Trousers
+HD_A_2450   Morne's Helm
+BD_A_2450   Morne's Armor
+AM_A_2450   Morne's Gauntlets
+LG_A2450   Morne's Leggings
+HD_A_2500   Silver Mask
+BD_A_2500   Leonhard's Garb
+AM_A_2500   Leonhard's Gauntlets
+LG_A2500   Leonhard's Trousers
+HD_A_2550   Sneering Mask
+BD_A_2550   Pale Shade Robe
+AM_A_2550   Pale Shade Gloves
+LG_A2550   Pale Shade Trousers
+HD_A_2600   Sunset Helm
+BD_A_2600   Sunset Armor
+AM_A_2600   Sunset Gauntlets
+LG_A2600   Sunset Leggings
+HD_A_2650   Old Sage's Blindfold
+BD_A_2650   Cornyx's Garb
+AM_A_2650   Cornyx's Wrap
+LG_A2650   Cornyx's Skirt
+HD_A_2700   Executioner Helm
+BD_A_2700   Executioner Armor
+AM_A_2700   Executioner Gauntlets
+LG_A2700   Executioner Leggings
+HD_A_2750   Billed Mask
+BD_A_2750   Black Dress
+AM_A_2750   Black Gauntlets
+LG_A2750   Black Leggings
+HD_A_2800   Pyromancer Crown
+BD_A_2800   Pyromancer Garb
+AM_A_2800   Pyromancer Wrap
+LG_A2800   Pyromancer Trousers
+BD_A_2850   Antiquated Plain Garb
+AM_A_2850   Violet Wrappings
+LG_A2850   Loincloth
+HD_A_2900   Court Sorcerer Hood
+BD_A_2900   Court Sorcerer Robe
+AM_A_2900   Court Sorcerer Gloves
+LG_A2900   Court Sorcerer Trousers
+HD_A_2950   Shira's Crown
+BD_A_2950   Shira's Armor
+AM_A_2950   Shira's Gloves
+LG_A2950   Shira's Trousers
+HD_A_3000   Sorcerer Hood
+BD_A_3000   Sorcerer Robe
+AM_A_3000   Sorcerer Gloves
+LG_A3000   Sorcerer Trousers
+BD_A_3010   Clandestine Coat
+HD_A_3100   Cleric Hat
+BD_A_3100   Cleric Blue Robe
+AM_A_3100   Cleric Gloves
+LG_A3100   Cleric Trousers
+HD_A_3200   Lapp's Helm
+BD_A_3200   Lapp's Armor
+AM_A_3200   Lapp's Gauntlets
+LG_A3200   Lapp's Leggings
+HD_A_3300   Grotto Hat
+BD_A_3300   Grotto Robe
+AM_A_3300   Grotto Wrap
+LG_A3300   Grotto Trousers
+HD_A_4000   Steel Soldier Helm
+BD_A_4000   Deserter Armor
+LG_A4000   Deserter Trousers
+HD_A_4020   Thief Mask
+HD_A_4300   Sage's Big Hat
+HD_A_4400   Aristocrat's Mask
+BD_A_4400   Jailer Robe
+AM_A_4400   Jailer Gloves
+LG_A4400   Jailer Trousers
+HD_A_4450   Saint's Veil
+BD_A_4450   Saint's Dress
+HD_A_4500   Footman's Hood
+BD_A_4500   Footman's Overcoat
+AM_A_4500   Footman's Bracelet
+LG_A4500   Footman's Trousers
+HD_A_4600   Grave Warden Hood
+BD_A_4600   Grave Warden Robe
+AM_A_4600   Grave Warden Wrap
+LG_A4600   Grave Warden Skirt
+HD_A_4700   Worker Hat
+BD_A_4700   Worker Garb
+AM_A_4700   Worker Gloves
+LG_A4700   Worker Trousers
+HD_A_4750   Thrall Hood
+HD_A_4800   Evangelist Hat
+BD_A_4800   Evangelist Robe
+AM_A_4800   Evangelist Gloves
+LG_A4800   Evangelist Trousers
+HD_A_4850   Scholar's Shed Skin
+BD_A_4850   Scholar's Robe
+HD_A_4900   Winged Knight Helm
+BD_A_4900   Winged Knight Armor
+AM_A_4900   Winged Knight Gauntlets
+LG_A4900   Winged Knight Leggings
+HD_A_5050   Cathedral Knight Helm
+BD_A_5050   Cathedral Knight Armor
+AM_A_5050   Cathedral Knight Gauntlets
+LG_A5050   Cathedral Knight Leggings
+HD_A_5200   Lothric Knight Helm
+BD_A_5200   Lothric Knight Armor
+AM_A_5200   Lothric Knight Gauntlets
+LG_A5200   Lothric Knight Leggings
+HD_A_5300   Outrider Knight Helm
+BD_A_5300   Outrider Knight Armor
+AM_A_5300   Outrider Knight Gauntlets
+LG_A5300   Outrider Knight Leggings
+HD_A_5400   Black Knight Helm
+BD_A_5400   Black Knight Armor
+AM_A_5400   Black Knight Gauntlets
+LG_A5400   Black Knight Leggings
+HD_A_5450   Dark Mask
+BD_A_5450   Dark Armor
+AM_A_5450   Dark Gauntlets
+LG_A5450   Dark Leggings
+HD_A_5500   Exile Mask
+BD_A_5500   Exile Armor
+AM_A_5500   Exile Gauntlets
+LG_A5500   Exile Leggings
+HD_A_5550   Slave Knight Hood
+BD_A_5550   Slave Knight Armor
+AM_A_5550   Slave Knight Gauntlets
+LG_A5550   Slave Knight Leggings
+HD_A_5600   Pontiff Knight Crown
+BD_A_5600   Pontiff Knight Armor
+AM_A_5600   Pontiff Knight Gauntlets
+LG_A5600   Pontiff Knight Leggings
+HD_A_5650   Ordained Hood
+BD_A_5650   Ordained Dress
+LG_A5650   Ordained Trousers
+HD_A_5700   Golden Crown
+BD_A_5700   Dragonscale Armor
+AM_A_5700   Golden Bracelets
+LG_A5700   Dragonscale Waistcloth
+HD_A_5750   Wolnir's Crown
+HD_A_5800   Undead Legion Helm
+BD_A_5800   Undead Legion Armor
+AM_A_5800   Undead Legion Gauntlet
+LG_A5800   Undead Legion Leggings
+HD_A_5850   Follower Helm
+BD_A_5850   Follower Armor
+AM_A_5850   Follower Gloves
+LG_A5850   Follower Boots
+HD_A_5950   Man Serpent's Mask
+BD_A_5950   Man Serpent's Robes
+HD_A_6000   Fire Witch Helm
+BD_A_6000   Fire Witch Armor
+AM_A_6000   Fire Witch Gauntlets
+LG_A6000   Fire Witch Leggings
+HD_A_6050   Millwood Knight Helm
+BD_A_6050   Millwood Knight Armor
+AM_A_6050   Millwood Knight Gauntlets
+LG_A6050   Millwood Knight Leggings
+HD_A_6100   Lorian's Helm
+BD_A_6100   Lorian's Armor
+AM_A_6100   Lorian's Gauntlets
+LG_A6100   Lorian's Leggings
+HD_A_6150   Hood of Prayer
+BD_A_6150   Robe of Prayer
+LG_A6150   Skirt of Prayer
+HD_A_6200   Giant's Crown
+BD_A_6200   Giant's Armor
+AM_A_6200   Giant's Gauntlets
+LG_A6200   Giant's Leggings
+HD_A_6300   Dancer's Crown
+BD_A_6300   Dancer's Armor
+AM_A_6300   Dancer's Gauntlets
+LG_A6300   Dancer's Leggings
+HD_A_6350   Ringed Knight Hood
+BD_A_6350   Ringed Knight Armor
+AM_A_6350   Ringed Knight Gauntlets
+LG_A6350   Ringed Knight Leggings
+HD_A_6400   Gundyr's Helm
+BD_A_6400   Gundyr's Armor
+AM_A_6400   Gundyr's Gauntlets
+LG_A6400   Gundyr's Leggings
+BD_A_6450   Harald Legion Armor
+AM_A_6450   Harald Legion Gauntlets
+LG_A6450   Harald Legion Leggings
+HD_A_6600   Archdeacon White Crown
+BD_A_6600   Archdeacon Holy Garb
+LG_A6600   Archdeacon Skirt
+BD_A_6650   Deacon Robe
+LG_A6650   Deacon Skirt
+HD_A_6750   Iron Dragonslayer Helm
+BD_A_6750   Iron Dragonslayer Armor
+AM_A_6750   Iron Dragonslayer Gauntlets
+LG_A6750   Iron Dragonslayer Leggings
+HD_A_6800   Dingy Hood
+BD_A_6800   Fire Keeper Robe
+AM_A_6800   Fire Keeper Gloves
+LG_A6800   Fire Keeper Skirt
+HD_A_6850   White Preacher Head
+HD_A_7000   Chain Helm
+BD_A_7000   Chain Armor
+AM_A_7000   Leather Gauntlets
+LG_A7000   Chain Leggings
+HD_A_7100   Nameless Knight Helm
+BD_A_7100   Nameless Knight Armor
+AM_A_7100   Nameless Knight Gauntlets
+LG_A7100   Nameless Knight Leggings
+HD_A_7200   Elite Knight Helm
+BD_A_7200   Elite Knight Armor
+AM_A_7200   Elite Knight Gauntlets
+LG_A7200   Elite Knight Leggings
+HD_A_7300   Faraam Helm
+BD_A_7300   Faraam Armor
+AM_A_7300   Faraam Gauntlets
+LG_A7300   Faraam Boots
+HD_A_7400   Catarina Helm
+BD_A_7400   Catarina Armor
+AM_A_7400   Catarina Gauntlets
+LG_A7400   Catarina Leggings
+HD_A_7450   Standard Helm
+BD_A_7450   Hard Leather Armor
+AM_A_7450   Hard Leather Gauntlets
+LG_A7450   Hard Leather Boots
+HD_A_7500   Havel's Helm
+BD_A_7500   Havel's Armor
+AM_A_7500   Havel's Gauntlets
+LG_A7500   Havel's Leggings
+HD_A_7550   Brigand Hood
+BD_A_7550   Brigand Armor
+AM_A_7550   Brigand Gauntlets
+LG_A7550   Brigand Trousers
+HD_A_7600   Pharis's Hat
+BD_A_7600   Leather Armor
+AM_A_7600   Leather Gloves
+LG_A7600   Leather Boots
+HD_A_7650   Ragged Mask
+BD_A_7650   Master's Attire
+AM_A_7650   Master's Gloves
+LG_A7650   Loincloth
+HD_A_7700   Old Sorcerer Hat
+BD_A_7700   Old Sorcerer Coat
+AM_A_7700   Old Sorcerer Gauntlets
+LG_A7700   Old Sorcerer Boots
+HD_A_7750   Conjurator Hood
+BD_A_7750   Conjurator Robe
+AM_A_7750   Conjurator Manchettes
+LG_A7750   Conjurator Boots
+BD_A_7800   Black Leather Armor
+AM_A_7800   Black Leather Gloves
+LG_A7800   Black Leather Boots
+HD_A_7850   Symbol of Avarice
+HD_A_7900   Creighton's Steel Mask
+BD_A_7900   Mirrah Chain Mail
+AM_A_7900   Mirrah Chain Gloves
+LG_A7900   Mirrah Chain Leggings
+HD_A_7950   Maiden Hood
+BD_A_7950   Maiden Robe
+AM_A_7950   Maiden Gloves
+LG_A7950   Maiden Skirt
+HD_A_8000   Alva Helm
+BD_A_8000   Alva Armor
+AM_A_8000   Alva Gauntlets
+LG_A8000   Alva Leggings
+HD_A_8050   Ruin Helm
+BD_A_8050   Ruin Armor
+AM_A_8050   Ruin Gauntlets
+LG_A8050   Ruin Leggings
+HD_A_8100   Shadow Mask
+BD_A_8100   Shadow Garb
+AM_A_8100   Shadow Gauntlets
+LG_A8100   Shadow Leggings
+HD_A_8150   Desert Pyromancer Hood
+BD_A_8150   Desert Pyromancer Garb
+AM_A_8150   Desert Pyromancer Gloves
+LG_A8150   Desert Pyromancer Skirt
+HD_A_8200   Eastern Helm
+BD_A_8200   Eastern Armor
+AM_A_8200   Eastern Gauntlets
+LG_A8200   Eastern Leggings
+HD_A_8250   Black Witch Hat
+BD_A_8250   Black Witch Garb
+AM_A_8250   Black Witch Wrappings
+LG_A8250   Black Witch Trousers
+HD_A_8300   Helm of Favor
+BD_A_8300   Embraced Armor of Favor
+AM_A_8300   Gauntlets of Favor
+LG_A8300   Leggings of Favor
+HD_A_8350   Black Witch Veil
+HD_A_8400   Brass Helm
+BD_A_8400   Brass Armor
+AM_A_8400   Brass Gauntlets
+LG_A8400   Brass Leggings
+HD_A_8450   Blindfold Mask
+HD_A_8500   Silver Knight Helm
+BD_A_8500   Silver Knight Armor
+AM_A_8500   Silver Knight Gauntlets
+LG_A8500   Silver Knight Leggings
+HD_A_8600   Lucatiel's Mask
+BD_A_8600   Mirrah Vest
+AM_A_8600   Mirrah Gloves
+LG_A8600   Mirrah Trousers
+HD_A_8700   Iron Helm
+BD_A_8700   Armor of the Sun
+AM_A_8700   Iron Bracelets
+LG_A8700   Iron Leggings
+HD_A_8800   Drakeblood Helm
+BD_A_8800   Drakeblood Armor
+AM_A_8800   Drakeblood Gauntlets
+LG_A8800   Drakeblood Leggings
+BD_A_8900   Drang Armor
+AM_A_8900   Drang Gauntlets
+LG_A8900   Drang Shoes
+HD_A_9000   Black Iron Helm
+BD_A_9000   Black Iron Armor
+AM_A_9000   Black Iron Gauntlets
+LG_A9000   Black Iron Leggings
+HD_A_9100   Painting Guardian Hood
+BD_A_9100   Painting Guardian Gown
+AM_A_9100   Painting Guardian Gloves
+LG_A9100   Painting Guardian Waistcloth
+HD_A_9200   Wolf Knight Helm
+BD_A_9200   Wolf Knight Armor
+AM_A_9200   Wolf Knight Gauntlets
+LG_A9200   Wolf Knight Leggings
+HD_A_9300   Dragonslayer Helm
+BD_A_9300   Dragonslayer Armor
+AM_A_9300   Dragonslayer Gauntlets
+LG_A9300   Dragonslayer Leggings
+HD_A_9400   Smough's Helm
+BD_A_9400   Smough's Armor
+AM_A_9400   Smough's Gauntlets
+LG_A9400   Smough's Leggings
+HD_A_9500   Hexer's Hood
+BD_A_9500   Hexer's Robes
+AM_A_9500   Hexer's Gloves
+LG_A9500   Hexer's Boots
+HD_A_9600   Helm of Thorns
+BD_A_9600   Armor of Thorns
+AM_A_9600   Gauntlets of Thorns
+LG_A9600   Leggings of Thorns
+HD_A_9700   Varangian Helmet
+BD_A_9700   Varangian Armor
+AM_A_9700   Varangian Cuffs
+LG_A9700   Varangian Leggings
+HD_A_9800   Crown of Dusk
+BD_A_9800   Antiquated Dress
+AM_A_9800   Antiquated Gloves
+LG_A9800   Antiquated Skirt
+HD_A_9900   Karla's Pointed Hat
+BD_A_9900   Karla's Coat
+AM_A_9900   Karla's Gloves
+LG_A9900   Karla's Trousers
+HD_A_9901   Burial Knight Helm
+BD_A_9901   Burial Knight Armor
+AM_A_9901   Burial Knight Gauntlets
+LG_A9901   Burial Knight Leggings
+   
+WP_A_9900   ## Weapons ###
+WP_A_0100   Dagger [Normal]
+WP_A_0101   Bandit's Knife [Normal]
+WP_A_0102   Parrying Dagger [Normal]
+WP_A_0103   Engraved Dagger [Unique]
+WP_A_0104   Rotten Ghru Dagger [Normal]
+WP_A_0106   Harpe [Normal]
+WP_A_0107   Scholar's Candlestick [Normal]
+WP_A_0108   Tailbone Short Sword [Dragon]
+WP_A_0109   Corvian Greatknife [Normal]
+WP_A_0112   Handmaid's Dagger [Unique]
+WP_A_0114   Aquamarine Dagger [Unique]
+WP_A_0115   Murky Hand Scythe [Normal]
+WP_A_0200   Shortsword [Normal]
+WP_A_0201   Longsword [Normal]
+WP_A_0202   Broadsword [Normal]
+WP_A_0203   Broken Straight Sword [Normal]
+WP_A_0206   Lothric Knight Sword [Normal]
+WP_A_0211   Sunlight Straight Sword [Unique]
+WP_A_0212   Rotten Ghru Curved Sword [Normal]
+WP_A_0214   Irithyll Straight Sword [Unique]
+WP_A_0215   Lothric Candlestick [Unique]
+WP_A_0216   Cleric's Candlestick [Boss]
+WP_A_0218   Morion Blade [Unique]
+WP_A_0220   Astora Straight Sword [Normal]
+WP_A_0221   Barbed Straight Sword [Normal]
+WP_A_0222   Executioner's Greatsword [Normal]
+WP_A_0223   Anri's Straight Sword [Unique]
+WP_A_0224   Onyx Blade [Unique]
+WP_A_0225   Ringed Knight Straight Sword [Unique]
+WP_A_0226   Gael's Greatsword [Boss]
+WP_A_0227   Sword of Avowal [Unique]
+WP_A_0300   Estoc [Normal]
+WP_A_0301   Mail Breaker [Normal]
+WP_A_0302   Rapier [Normal]
+WP_A_0303   Ricard's Rapier [Normal]
+WP_A_0304   Crystal Sage's Rapier [Boss]
+WP_A_0305   Irithyll Rapier [Unique]
+WP_A_0306   Bone Rapier [Unique]
+WP_A_0401   Shotel [Normal]
+WP_A_0403   Scimitar [Normal]
+WP_A_0404   Falchion [Normal]
+WP_A_0405   Carthus Curved Sword [Normal]
+WP_A_0406   Carthus Curved Greatsword [Normal]
+WP_A_0407   Pontiff Knight Curved Sword [Unique]
+WP_A_0408   Storm Curved Sword [Boss]
+WP_A_0409   Painting Guardian's Curved Sword [Normal]
+WP_A_0410   Crescent Moon Sword [Normal]
+WP_A_0411   Carthus Shotel [Normal]
+WP_A_0412   Follower Sabre [Normal]
+WP_A_0413   Demon's Scar [Boss]
+WP_A_0500   Uchigatana [Normal]
+WP_A_0501   Washing Pole [Normal]
+WP_A_0502   Chaos Blade [Unique]
+WP_A_0503   Black Blade [Normal]
+WP_A_0504   Bloodlust [Unique]
+WP_A_0505   Darkdrift [Unique]
+WP_A_0506   Frayed Blade [Boss]
+WP_A_0600   Bastard Sword [Normal]
+WP_A_0601   Smouldering Greatsword [Unique]
+WP_A_0602   Claymore [Normal]
+WP_A_0604   Zweihander [Normal]
+WP_A_0605   Greatsword [Normal]
+WP_A_0606   Irithyll Greatsword [Unique]
+WP_A_0607   Astora Greatsword [Normal]
+WP_A_0608   Murakumo [Normal]
+WP_A_0610   Lothric Knight Greatsword [Normal]
+WP_A_0613   Black Knight Greatsword [Unique]
+WP_A_0614   Flamberge [Normal]
+WP_A_0615   Exile Greatsword [Normal]
+WP_A_0617   Greatsword of Judgment [Boss]
+WP_A_0618   Profaned Greatsword [Boss]
+WP_A_0619   Cathedral Knight Greatsword [Normal]
+WP_A_0620   Farron Greatsword [Boss]
+WP_A_0623   Yhorm's Great Machete [Boss]
+WP_A_0624   Dark Sword [Normal]
+WP_A_0625   Black Knight Sword [Unique]
+WP_A_0626   Lorian's Greatsword [Boss]
+WP_A_0627   Twin Princes' Greatsword [Boss]
+WP_A_0628   Lothric's Holy Sword [Boss]
+WP_A_0629   Wolnir's Holy Sword [Boss]
+WP_A_0630   Wolf Knight's Greatsword [Boss]
+WP_A_0631   Hollowslayer Greatsword [Boss]
+WP_A_0632   Moonlight Greatsword [Boss]
+WP_A_0633   Drakeblood Greatsword [Normal]
+WP_A_0634   Firelink Greatsword [Boss]
+WP_A_0635   Fume Ultra Greatsword [Unique]
+WP_A_0636   Old Wolf Curved Sword [Unique]
+WP_A_0637   Storm Ruler [Boss]
+WP_A_0638   Harald Curved Greatsword [Normal]
+WP_A_0700   Hand Axe [Normal]
+WP_A_0701   Battle Axe [Normal]
+WP_A_0702   Brigand Axe [Normal]
+WP_A_0704   Crescent Axe [Normal]
+WP_A_0705   Greataxe [Normal]
+WP_A_0707   Butcher Knife [Unique]
+WP_A_0708   Dragonslayer's Axe [Normal]
+WP_A_0709   Missionary Axe [Normal]
+WP_A_0710   Thrall Axe [Normal]
+WP_A_0711   Dragonslayer Greataxe [Boss]
+WP_A_0712   Demon's Greataxe [Boss]
+WP_A_0713   Eleonora [Unique]
+WP_A_0715   Man Serpent Hatchet [Normal]
+WP_A_0717   Millwood Battle Axe [Normal]
+WP_A_0718   Earth Seeker [Unique]
+WP_A_0800   Club [Normal]
+WP_A_0801   Mace [Normal]
+WP_A_0802   Morning Star [Normal]
+WP_A_0803   Reinforced Club [Normal]
+WP_A_0806   Large Club [Normal]
+WP_A_0808   Great Club [Normal]
+WP_A_0811   Great Mace [Normal]
+WP_A_0816   Great Wooden Hammer [Normal]
+WP_A_0817   Gargoyle Flame Hammer [Unique]
+WP_A_0818   Vordt's Great Hammer [Boss]
+WP_A_0819   Old King's Great Hammer [Boss]
+WP_A_0821   Four Knights Hammer [Unique]
+WP_A_0822   Heysel Pick [Unique]
+WP_A_0823   Hammer of the Great Tree [Boss]
+WP_A_0824   Warpick [Normal]
+WP_A_0825   Pickaxe [Normal]
+WP_A_0826   Dragon Tooth [Dragon]
+WP_A_0827   Smough's Great Hammer [Unique]
+WP_A_0828   Blacksmith Hammer [Normal]
+WP_A_0829   Morne's Great Hammer [Unique]
+WP_A_0830   Spiked Mace [Normal]
+WP_A_0831   Quakestone Hammer [Unique]
+WP_A_0832   Ledo's Great Hammer [Unique]
+WP_A_0900   Spear [Normal]
+WP_A_0901   Winged Spear [Normal]
+WP_A_0903   Partizan [Normal]
+WP_A_0908   Greatlance [Normal]
+WP_A_0909   Lothric Knight Long Spear [Normal]
+WP_A_0912   Rotten Ghru Spear [Normal]
+WP_A_0913   Tailbone Spear [Dragon]
+WP_A_0914   Soldering Iron [Unique]
+WP_A_0916   Dragonslayer Swordspear [Boss]
+WP_A_0917   Arstor's Spear [Boss]
+WP_A_0918   Saint Bident [Normal]
+WP_A_0919   Yorshka's Spear [Unique]
+WP_A_0922   Dragonslayer Spear [Unique]
+WP_A_0923   Follower Javelin [Normal]
+WP_A_0924   Ringed Knight Spear [Unique]
+WP_A_0925   Lothric War Banner [Normal]
+WP_A_0926   Crucifix of the Mad King [Unique]
+WP_A_1001   Lucerne [Normal]
+WP_A_1002   Glaive [Normal]
+WP_A_1003   Halberd [Normal]
+WP_A_1005   Black Knight Greataxe [Unique]
+WP_A_1007   Pontiff Knight Great Scythe [Unique]
+WP_A_1008   Great Corvian Scythe [Normal]
+WP_A_1009   Winged Knight Halberd [Normal]
+WP_A_1010   Gundyr's Halberd [Boss]
+WP_A_1011   Lothric's Scythe [Boss]
+WP_A_1012   Ancient Dragon Halberd [Dragon]
+WP_A_1014   Red Hilted Halberd [Normal]
+WP_A_1015   Black Knight Glaive [Unique]
+WP_A_1016   Immolation Tinder [Unique]
+WP_A_1017   Splitleaf Greatsword [Normal]
+WP_A_1018   Friede's Great Scythe [Boss]
+WP_A_1101   Caestus [Normal]
+WP_A_1102   Manikin Claws [Normal]
+WP_A_1103   Demon's Fist [Boss]
+WP_A_1104   Dark Hand [Uninfusable]
+WP_A_1105   Crow Talons [Normal]
+WP_A_1107   Censuring Palm [Normal]
+WP_A_1204   Witch's Locks [Unique]
+WP_A_1205   Notched Whip [Normal]
+WP_A_1206   Spotted Whip [Unique]
+WP_A_1207   Rose of Ariandel [Boss]
+   
+WP_A_1210   ### Staves ###
+WP_A_1211   Quarterstaff [Normal]
+WP_A_1212   Corvian Longstaff [Unique]
+WP_A_1213   Witchtree Limb [Unique]
+WP_A_1214   Murky Warstaff [Unique]
+WP_A_1215   Longstaff of Rosaria [Boss]
+WP_A_1216   Staff of Serpents [Dragon]
+WP_A_1217   Archdeacon's Longstaff [Unique]
+WP_A_1218   Heretic's Warstaff [Unique]
+WP_A_1219   Witch's Staff [Unique]
+WP_A_1305   Talisman [Normal]
+WP_A_1306   Sorcerer's Staff [Normal]
+WP_A_1307   Storyteller's Staff [Normal]
+WP_A_1308   Mendicant's Staff [Normal]
+WP_A_1310   Man-grub's Staff [Unique]
+WP_A_1311   Archdeacon's Great Staff [Unique]
+WP_A_1312   Golden Ritual Spear [Boss]
+WP_A_1314   Yorshka's Chime [Unique]
+WP_A_1316   Sage's Crystal Staff [Unique]
+WP_A_1317   Heretic's Staff [Normal]
+WP_A_1318   Court Sorcerer's Staff [Unique]
+WP_A_1319   Witchtree Branch [Unique]
+WP_A_1320   Izalith Staff [Unique]
+WP_A_1321   Cleric's Sacred Chime [Normal]
+WP_A_1322   Priest's Chime [Normal]
+WP_A_1323   Saint-tree Bellvine [Unique]
+WP_A_1324   Caitha's Chime [Boss]
+WP_A_1325   Crystal Chime [Unique]
+WP_A_1326   Sunlight Talisman [Unique]
+WP_A_1327   Canvas Talisman [Normal]
+WP_A_1328   Sunless Talisman [Unique]
+WP_A_1329   Saint's Talisman [Normal]
+WP_A_1330   White Hair Talisman [Unique]
+WP_A_1340   Pyromancy Flame [Fire Seed]
+WP_A_1341   Pyromancer's Parting Flame [Fire Seed]
+WP_A_1342   Murky Longstaff [Normal]
+WP_A_1343   Sacred Chime of Filianore [Unique]
+WP_A_1344   Preacher's Right Arm [Unique]
+WP_A_1345   Black Flame [Fire Seed]
+WP_A_1346   Holy Flame [Fire Seed]
+WP_A_1347   Veiled Staff [Normal]
+WP_A_1348   Veiled Talisman [Normal]
+WP_A_1349   Veiled Flame [Fire Seed]
+WP_A_1350   Sorcerous Flame [Fire Seed]
+WP_A_1351   Fool's Flame [Fire Seed]
+WP_A_1352   Petrified Flame [Fire Seed]
+WP_A_1353   Jester's Talisman [Unique]
+WP_A_1354   Darkmoon Ritual Staff [Boss]
+   
+WP_A_1359   ### Bows and Crossbows ###
+WP_A_1360   Dragonslayer Greatbow [Unique]
+WP_A_1401   Short Bow [Normal]
+WP_A_1402   Composite Bow [Normal]
+WP_A_1404   Birch Crossbow [Normal]
+WP_A_1405   Arbalest [Unique]
+WP_A_1406   Longbow [Normal]
+WP_A_1407   Dragonrider Bow [Unique]
+WP_A_1409   Avelyn [Unique]
+WP_A_1410   Knight's Crossbow [Normal]
+WP_A_1411   Oak Crossbow [Normal]
+WP_A_1412   White Birch Bow [Unique]
+WP_A_1413   Darkmoon Longbow [Boss]
+WP_A_1414   Onislayer Greatbow [Unique]
+WP_A_1415   Black Bow of Pharis [Normal]
+WP_A_1417   Sniper Crossbow [Normal]
+WP_A_1418   Millwood Greatbow [Unique]
+WP_A_1419   Repeating Crossbow [Boss]
+   
+WP_A_1590   ### Paired Weapons ###
+WP_A_1602   Warden Twinblades [Normal]
+WP_A_1603   Winged Knight Twinaxes [Normal]
+WP_A_1604   Dancer's Enchanted Swords [Boss]
+WP_A_1605   Great Machete [Normal]
+WP_A_1606   Brigand Twindaggers [Normal]
+WP_A_1607   Gotthard Twinswords [Normal]
+WP_A_1608   Golden Dual Swords [Unique]
+WP_A_1609   Onikiri and Ubadachi [Normal]
+WP_A_1610   Drang Twinspears [Normal]
+WP_A_1612   Giant Door Shield [Normal]
+WP_A_1613   Drang Hammers [Normal]
+WP_A_1614   Valorheart [Unique]
+WP_A_1615   Crow Quills [Normal]
+WP_A_1616   Ringed Knight Paired Greatswords [Unique]
+WP_A_2001   Small Leather Shield [Normal]
+WP_A_2003   Round Shield [Normal]
+WP_A_2004   Large Leather Shield [Normal]
+WP_A_2007   Hawkwood's Shield [Normal]
+WP_A_2008   Iron Round Shield [Normal]
+WP_A_2011   Wooden Shield [Normal]
+WP_A_2012   Kite Shield [Normal]
+WP_A_2013   Ghru Rotshield [Normal]
+WP_A_2015   Havel's Greatshield [Dragon]
+WP_A_2016   Target Shield [Normal]
+WP_A_2017   Elkhorn Round Shield [Normal]
+WP_A_2018   Warrior's Round Shield [Normal]
+WP_A_2019   Caduceus Round Shield [Normal]
+WP_A_2020   Red and White Round Shield [Normal]
+WP_A_2021   Plank Shield [Normal]
+WP_A_2022   Leather Shield [Normal]
+WP_A_2023   Crimson Parma [Normal]
+WP_A_2024   Eastern Iron Shield [Normal]
+WP_A_2025   Llewellyn Shield [Normal]
+WP_A_2026   Cleric's Parma [Normal]
+WP_A_2027   Golden Falcon Shield [Normal]
+WP_A_2028   Sacred Bloom Shield [Unique]
+WP_A_2029   Ancient Dragon Greatshield [Dragon]
+WP_A_2030   Follower Shield [Normal]
+WP_A_2031   Dragonhead Shield [Dragon]
+WP_A_2101   Lothric Knight Shield [Normal]
+WP_A_2104   Knight Shield [Normal]
+WP_A_2106   Pontiff Knight Shield [Unique]
+WP_A_2107   Carthus Shield [Normal]
+WP_A_2110   Black Knight Shield [Unique]
+WP_A_2111   Prince's Shield [Boss]
+WP_A_2112   Silver Knight Shield [Unique]
+WP_A_2113   Spiked Shield [Normal]
+WP_A_2114   Pierce Shield [Normal]
+WP_A_2115   East-West Shield [Normal]
+WP_A_2116   Sunlight Shield [Normal]
+WP_A_2117   Crest Shield [Unique]
+WP_A_2118   Dragon Crest Shield [Unique]
+WP_A_2119   Spider Shield [Normal]
+WP_A_2120   Grass Crest Shield [Unique]
+WP_A_2121   Sunset Shield [Normal]
+WP_A_2122   Golden Wing Crest Shield [Unique]
+WP_A_2123   Blue Wooden Shield [Normal]
+WP_A_2124   Silver Eagle Kite Shield [Normal]
+WP_A_2125   Stone Parma [Normal]
+WP_A_2126   Spirit Tree Crest Shield [Unique]
+WP_A_2127   Porcine Shield [Normal]
+WP_A_2128   Shield of Want [Boss]
+WP_A_2129   Wargod Wooden Shield [Normal]
+WP_A_2131   Dragonhead Greatshield [Dragon]
+WP_A_2201   Lothric Knight Greatshield [Normal]
+WP_A_2202   Cathedral Knight Greatshield [Normal]
+WP_A_2204   Dragonslayer Greatshield [Boss]
+WP_A_2205   Moaning Shield [Unique]
+WP_A_2206   Immortal Dragon Greatshield [Dragon]
+WP_A_2207   Yhorm's Greatshield [Boss]
+WP_A_2208   Black Iron Greatshield [Normal]
+WP_A_2209   Wolf Knight's Greatshield [Unique]
+WP_A_2210   Twin Dragon Greatshield [Normal]
+WP_A_2211   Greatshield of Glory [Unique]
+WP_A_2212   Curse Ward Greatshield [Boss]
+WP_A_2213   Bonewheel Shield [Normal]
+WP_A_2214   Stone Greatshield [Normal]
+   
+WP_A_2299   ### Tools ###
+WP_A_2300   Torch
+WP_A_2301   Follower Torch
+   
+WP_A_3000   ### Custom ###
+WP_A_3001   Firelink Dagger [Boss]
+WP_A_3002   Firelink Spear [Boss]
+WP_A_3003   Firelink Sword [Boss]
+WP_A_3004   Firelink Rapier [Boss]
+WP_A_3005   Greatwood Club [Boss]
+WP_A_3006   Irithyll Lance [Unique]
+WP_A_3007   Fume Sword [Unique]
+WP_A_3008   Machete [Normal]
+WP_A_3009   Demon's Axe [Boss]
+WP_A_3010   Abyssal Greatsword [Unique]
+WP_A_3011   Moonlight Sword [Boss]
+WP_A_3013   Pontiff Knight Greatsword [Unique]
+WP_A_3014   Demon's Great Hammer [Boss]
+WP_A_3015   Tailbone Sword [Dragon]
+WP_A_3016   Yorshka's Hammer [Unique]
+WP_A_3017   Dragon's Grasp [Dragon]
+WP_A_3018   Irithyll Pick [Unique]
+WP_A_3019   Tailbone Pick [Dragon]
+WP_A_3020   Tailbone Club [Dragon]
+WP_A_3021   Archdeacon's Bident [Boss]
+WP_A_3022   Irithyll Mace [Unique]
+WP_A_3023   Hammer of Carim [Unique]
+WP_A_3024   Wooden Mallet [Normal]
+   
+WP_A_6390   ### Debug ###
+WP_A_6399   [Debug] Arrow
+WP_A_6700   [Debug] Bolt
+WP_A_9004   [Debug] Daggers
+WP_A_9005   [Debug] Twinswords
+WP_A_9006   [Debug] Shield
+WP_A_1000   No Correction
+WP_A_1100   Throwing Knife
+WP_A_1200   Church Guardian Shiv
+WP_A_1300   Poison Throwing Knife
+WP_A_1400   Firebomb
+WP_A_1500   Lightning Urn
+WP_A_1600   TestData4
+WP_A_1700   Black Firebomb
+WP_A_1800   Dung Pie
+WP_A_1900   Twinkling Dragon Head Stone
+WP_A_2000   Twinkling Dragon Torso Stone
+WP_A_2100   Spear Fragment
+   
+WP_A_3900   ### Arrows ###
+WP_A_4000   Standard Arrow
+WP_A_4001   Fire Arrow
+WP_A_4002   Poison Arrow
+WP_A_4003   Large Arrow
+WP_A_4004   Feather Arrow
+WP_A_4005   Moonlight Arrow
+WP_A_4006   Wood Arrow
+WP_A_4007   Dark Arrow
+   
+WP_A_4019   ### Greatarrows ###
+WP_A_4020   Dragonslayer Greatarrow
+WP_A_4022   Dragonslayer Lightning Arrow
+WP_A_4023   Onislayer Greatarrow
+WP_A_4024   Millwood Greatarrow
+   
+WP_A_4030   ### Bolts ###
+WP_A_4040   Standard Bolt
+WP_A_4041   Heavy Bolt
+WP_A_4042   Sniper Bolt
+WP_A_4043   Wood Bolt
+WP_A_4044   Lightning Bolt
+WP_A_4045   Splintering Bolt
+WP_A_4046   Exploding Bolt
+   
+WP_A_4098   ### Test Data ###
+WP_A_4099   TestData Bolt1
+WP_A_4199   TestData Bolt2
+WP_A_8000   Test Greatbow
+WP_A_8900   Test-Glow
+WP_A_9300   Ghost Dagger
+WP_A_9301   Ghost Sword
+WP_A_9302   Ghost Longsword
+WP_A_9303   Ghost Ultralongsword
+WP_A_9304   Ghost Rapier
+WP_A_9305   Ghost Curved Sword
+WP_A_9306   Ghost Saber
+WP_A_9307   Ghost Katana
+WP_A_9308   Ghost Curved Greatsword
+WP_A_9309   Ghost Axe
+WP_A_9310   Ghost Greataxe
+WP_A_9311   Ghost Club
+WP_A_9312   Ghost Greatclub
+WP_A_9313   Ghost Spear
+WP_A_9314   Ghost Halberd
+WP_A_9315   Ghost Scythe
+WP_A_9316   Ghost Staff
+WP_A_9317   Ghost Chime
+WP_A_9318   Ghost Pyrohand
+WP_A_9319   Ghost Whip
+WP_A_9320   Ghost Bow
+WP_A_9321   Ghost Greatbow
+WP_A_9322   Ghost Arbalet
+WP_A_9323   Ghost Fist
+WP_A_9324   Ghost Caestus
+WP_A_9325   Ghost Claw
+WP_A_9326   Ghost PairedCurvedSwords
+WP_A_9327   Ghost PairedAxes
+WP_A_9328   Ghost PairedDaggers
+WP_A_9329   Ghost PairedLongSwords
+WP_A_9330   Ghost PairedKatanas
+WP_A_9331   Ghost PairedSpears
+WP_A_9332   Ghost DemonFist
+WP_A_9333   Ghost Claw
+WP_A_9334   Ghost PairedMace
+WP_A_9336   Ghost SmallShield
+WP_A_9337   Ghost Shield
+WP_A_9338   Ghost GreatShield
+WP_A_9339   Ghost Torch
