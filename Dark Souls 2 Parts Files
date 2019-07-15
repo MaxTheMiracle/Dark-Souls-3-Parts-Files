@@ -1,0 +1,761 @@
+WEAPONS
+WP_1000_A    Dagger
+WP_1010_A    Bandit's Knife
+WP_1040_A    Mytha's Bent Blade
+WP_1050_A    Shadow Dagger
+WP_1060_A    Thief Dagger
+WP_1070_A    Broken Thief Sword
+WP_1100_A    Parrying Dagger
+WP_1110_A    Manikin Knife
+WP_1140_A    Blue Dagger
+WP_1150_A    Umbral Dagger
+WP_1160_A    Retainer's Short Sword
+WP_1200_A    Broken Straight Sword
+WP_1210_A    Shortsword
+WP_1220_A    Longsword
+WP_1230_A    Broadsword
+WP_1240_A    Foot Soldier Sword
+WP_1250_A    Puzzling Stone Sword
+WP_4921_A    Possessed Armor Sword
+WP_1270_A    Varangian Sword
+WP_1280_A    Blue Flame
+WP_1290_A    Fume Sword
+WP_1320_A    Heide Knight Sword
+WP_1330_A    Red Rust Sword
+WP_1340_A    no text
+WP_1350_A    Black Dragon Sword
+WP_1360_A    Sun Sword
+WP_1370_A    Drakekeeper's Sword
+WP_1380_A    Ashen Warrior Sword
+WP_1390_A    Ivory Straight Sword
+WP_1400_A    Estoc
+WP_1410_A    Mail Breaker
+WP_1420_A    Chaos Rapier
+WP_1430_A    Spider's Silk
+WP_1440_A    Espada Ropera
+WP_1500_A    Rapier
+WP_1520_A    Black Scorpion Stinger
+WP_1530_A    Ricard's Rapier
+WP_1580_A    Ice Rapier
+WP_1600_A    Falchion
+WP_1610_A    Shotel
+WP_1620_A    Warped Sword
+WP_1630_A    Eleum Loyce
+WP_1640_A    Manikin Sabre
+WP_1650_A    Scimitar
+WP_1660_A    Red Rust Scimitar
+WP_1670_A    Spider Fang
+WP_1680_A    Melu Scimitar
+WP_1690_A    Monastery Scimitar
+WP_1700_A    Uchigatana
+WP_1710_A    Washing Pole
+WP_1720_A    Chaos Blade
+WP_1730_A    Blacksteel Katana
+WP_1740_A    Manslayer
+WP_1760_A    Darkdrift
+WP_1770_A    Berserker Blade
+WP_1790_A    Bewitched Alonne Sword
+WP_1800_A    Bastard Sword
+WP_1810_A    Flamberge
+WP_1820_A    Claymore
+WP_1830_A    Majestic Greatsword
+WP_1831_A    Majestic Greatsword
+WP_1850_A    Drangleic Sword
+WP_1860_A    Thorned Greatsword
+WP_1870_A    Bluemoon Greatsword
+WP_1871_A    Moonlight Greatsword
+WP_1880_A    Mastodon Greatsword
+WP_1900_A    Ruler's Sword
+WP_1910_A    Mirrah Greatsword
+WP_1911_A    Old Mirrah Greatsword
+WP_1920_A    Black Dragon Greatsword
+WP_1930_A    Black Knight Greatsword
+WP_1940_A    Royal Greatsword
+WP_1950_A    Old Knight Greatsword
+WP_1960_A    Defender Greatsword
+WP_1970_A    Watcher Greatsword
+WP_1980_A    Key to the Embedded
+WP_1990_A    Drakeblood Greatsword
+WP_1995_A    Loyce Greatsword
+WP_1996_A    Charred Loyce Greatsword
+WP_2000_A    Hand Axe
+WP_2010_A    Battle Axe
+WP_2020_A    Bandit Axe
+WP_2030_A    Infantry Axe
+WP_2070_A    Gyrm Axe
+WP_2080_A    Dragonslayer's Crescent Axe
+WP_2090_A    Butcher's Knife
+WP_2100_A    Silverblack Sickle
+WP_2200_A    Crescent Axe
+WP_2210_A    Greataxe
+WP_2220_A    Bandit Greataxe
+WP_546_A    Lion Greataxe
+WP_2250_A    Giant Stone Axe
+WP_2260_A    Gyrm Greataxe
+WP_2290_A    Black Dragon Greataxe
+WP_2300_A    Black Knight Greataxe
+WP_2310_A    Drakekeeper's Greataxe
+WP_2400_A    Club
+WP_2410_A    Mace
+WP_2420_A    Morning Star
+WP_2430_A    Reinforced Club
+WP_2440_A    Craftsman's Hammer
+WP_2470_A    Mace of the Insolent
+WP_2500_A    Handmaid's Ladle
+WP_2520_A    Blacksmith's Hammer
+WP_2530_A    Black Dragon Warpick
+WP_2540_A    Aldia Hammer
+WP_2560_A    Barbed Club
+WP_2600_A    Large Club
+WP_2610_A    Pickaxe
+WP_2620_A    Great Club
+WP_2630_A    Gyrm Great Hammer
+WP_2660_A    Iron King Hammer
+WP_2670_A    Malformed Skull
+WP_2680_A    Dragon Tooth
+WP_2690_A    Giant Warrior Club
+WP_1054_A    Malformed Shell
+WP_2710_A    Demon's Great Hammer
+WP_2720_A    Archdrake Mace
+WP_2730_A    Old Knight Hammer
+WP_2740_A    Drakekeeper's Great Hammer
+WP_2750_A    Sacred Chime Hammer
+WP_2760_A    Sanctum Mace
+WP_2800_A    Spear
+WP_2810_A    Winged Spear
+WP_2820_A    Pike
+WP_2830_A    Partizan
+WP_2840_A    Stone Soldier Spear
+WP_2850_A    Spitfire Spear
+WP_2855_A    Yorgh's Spear
+WP_2860_A    Silverblack Spear
+WP_2870_A    Heide Spear
+WP_2880_A    Pate's Spear
+WP_2890_A    Channeler's Trident
+WP_2895_A    Gargoyle Bident
+WP_2896_A    Dragonslayer Spear
+WP_2900_A    Heide Lance
+WP_2920_A    Heide Greatlance
+WP_2930_A    Grand Lance
+WP_2940_A    Chariot Lance
+WP_2950_A    Rampart Golem Lance
+WP_2960_A    Smelter Hammer
+WP_3000_A    Great Scythe
+WP_3010_A    Great Machete
+WP_3020_A    Full Moon Sickle
+WP_3040_A    Crescent Sickle
+WP_3050_A    Scythe of Nahr Alma
+WP_3060_A    Bone Scythe
+WP_3070_A    Scythe of Want
+WP_3200_A    Lucerne
+WP_3210_A    Scythe
+WP_3220_A    Halberd
+WP_3240_A    Helix Halberd
+WP_3250_A    Santier's Spear
+WP_3251_A    Santier's Spear
+WP_3270_A    Mastodon Halberd
+WP_3280_A    Blue Knight's Halberd
+WP_3290_A    Dragonrider's Halberd
+WP_3300_A    Black Knight Halberd
+WP_3310_A    Syan's Halberd
+WP_3320_A    Roaring Halberd
+WP_3330_A    Old Knight Halberd
+WP_3340_A    Old Knight Pike
+WP_3350_A    Drakekeeper's Warpick
+WP_3370_A    Wrathful Axe
+WP_3410_A    Claws
+WP_3420_A    Malformed Claws
+WP_3430_A    Manikin Claws
+WP_3440_A    Work Hook
+WP_1367_A    Caestus
+WP_3510_A    Shadow Claws
+WP_3530_A    Bone Fist
+WP_3600_A    Whip
+WP_3610_A    Notched Whip
+WP_3620_A    Bloodied Whip
+WP_3630_A    Spotted Whip
+WP_3660_A    Old Whip
+WP_3800_A    Sorcerer's Staff
+WP_3810_A    Staff of Amana
+WP_3820_A    Witchtree Branch
+WP_3830_A    Lizard Staff
+WP_3850_A    Olenford's Staff
+WP_3860_A    Archdrake Staff
+WP_3870_A    Bat Staff
+WP_3880_A    Bone Staff
+WP_3890_A    Staff of Wisdom
+WP_3900_A    Sunset Staff
+WP_3910_A    Pilgrim's Spontoon
+WP_3930_A    Azal's Staff
+WP_3940_A    Retainer Staff
+WP_4010_A    Cleric's Sacred Chime
+WP_4020_A    Witchtree Bellvine
+WP_4030_A    Priest's Chime
+WP_4040_A    Dragon Chime
+WP_4050_A    Chime of Want
+WP_4060_A    Archdrake Chime
+WP_4080_A    Idol's Chime
+WP_4090_A    Caitha's Chime
+WP_4100_A    Protective Chime
+WP_4110_A    Disc Chime
+WP_4120_A    Chime of Screams
+WP_4150_A    Black Witch's Staff
+WP_4200_A    Short Bow
+WP_4210_A    Long Bow
+WP_4220_A    Composite Bow
+WP_4230_A    Sea Bow
+WP_4240_A    Dragonrider Bow
+WP_4270_A    Bell Keeper Bow
+WP_4280_A    Bow of Want
+WP_4290_A    Hunter's Blackbow
+WP_4400_A    Alonne Greatbow
+WP_4420_A    Dragonslayer Greatbow
+WP_4430_A    Possessed Armor Greatbow
+WP_4440_A    Twin-headed Greatbow
+WP_4600_A    Light Crossbow
+WP_4610_A    Heavy Crossbow
+WP_4630_A    Shield Crossbow
+WP_4660_A    Avelyn
+WP_4670_A    Sanctum Crossbow
+WP_4680_A    Sanctum Repeating Crossbow
+WP_5000_A    Murakumo
+WP_5010_A    Arced Sword
+WP_5040_A    Curved Dragon Greatsword
+WP_5050_A    Curved Nil Greatsword
+WP_5200_A    Zweihander
+WP_5210_A    Greatsword
+WP_5220_A    Smelter Sword
+WP_5225_A    Aged Smelter Sword
+WP_5230_A    ????????? Ultra Greatsword
+WP_5240_A    King's Ultra Greatsword
+WP_5250_A    Fume Ultra Greatsword
+WP_5255_A    Ivory King Ultra Greatsword
+WP_5270_A    Pursuer's Ultra Greatsword
+WP_5275_A    Drakekeeper's Ultra Greatsword
+WP_5280_A    Crypt Blacksword
+WP_5285_A    Old Knight Ultra Greatsword
+WP_5290_A    Black Knight Ultra Greatsword
+WP_5295_A    Lost Sinner's Sword
+WP_5310_A    Stone Twinblade
+WP_5330_A    Dragonrider Twinblade
+WP_5340_A    Twinblade
+WP_5350_A    Red Iron Twinblade
+WP_5360_A    Curved Twinblade
+WP_5370_A    Sorcerer's Twinblade
+WP_5400_A    Pyromancy Flame
+WP_5410_A    Dark Pyromancy Flame
+WP_5500_A    Black Flamestone Dagger
+WP_5510_A    Yellow Quartz Longsword
+WP_5520_A    Bound Hand Axe
+WP_5530_A    Homunculus Mace
+WP_5540_A    Transgressor's Staff
+WP_5600_A    Longsword
+WP_5610_A    Murakumo
+WP_5620_A    Blacksteel Katana
+WP_5630_A    Rapier
+WP_5640_A    Greataxe
+WP_5650_A    Great Club
+WP_5660_A    Caestus
+WP_6100_A    Binoculars
+
+SHIELDS
+WP_1000_A    Buckler
+WP_1005_A    Benhart's Parma
+WP_1010_A    Small Leather Shield
+WP_1020_A    Iron Parma
+WP_1030_A    Foot Soldier Shield
+WP_1040_A    Target Shield
+WP_1050_A    Golden Falcon Shield
+WP_1070_A    Manikin Shield
+WP_1080_A    Llewellyn Shield
+WP_1091_A    Crimson Parma
+WP_1110_A    Cleric's Parma
+WP_1120_A    Cleric's Small Shield
+WP_1130_A    Magic Shield
+WP_1140_A    Cursed Bone Shield
+WP_1150_A    Sanctum Shield
+WP_1160_A    Varangian Shield
+WP_1185_A    Watcher's Shield
+WP_1200_A    Large Leather Shield
+WP_1210_A    Blue Wooden Shield
+WP_1220_A    Silver Eagle Kite Shield
+WP_1230_A    Drangleic Shield
+WP_1240_A    Lion Clan Shield
+WP_1250_A    Archdrake Shield
+WP_1260_A    King's Shield
+WP_1270_A    Mirrah Shield
+WP_1280_A    Old Knight's Shield
+WP_1290_A    Loyce Shield
+WP_1295_A    Charred Loyce Shield
+WP_1300_A    Spirit Tree Shield
+WP_1310_A    Golden Wing Shield
+WP_1320_A    Vessel Shield
+WP_1330_A    Shield of the Insolent
+WP_1350_A    Silverblack Shield
+WP_1360_A    Stone Parma
+WP_1370_A    Grand Spirit Tree Shield
+WP_1380_A    Moon Butterfly Shield
+WP_1390_A    Slumbering Dragon Shield
+WP_1395_A    Chaos Shield
+WP_1400_A    Wooden Shield
+WP_1420_A    Hollow Soldier Shield
+WP_1430_A    Royal Kite Shield
+WP_1450_A    Red Rust Shield
+WP_1455_A    Rampart Golem Shield
+WP_1470_A    Bell Keeper Shield
+WP_1475_A    Defender's Shield
+WP_1480_A    Black Dragon Shield
+WP_1485_A    Drakekeeper's Shield
+WP_1490_A    Porcine Shield
+WP_1495_A    Bone Shield
+WP_1500_A    Twin Dragon Greatshield
+WP_1510_A    Tower Shield
+WP_1530_A    Orma's Greatshield
+WP_1540_A    Reeve's Greatshield
+WP_1550_A    King's Mirror
+WP_1560_A    Dragonrider Greatshield
+WP_1570_A    Mastodon Greatshield
+WP_1590_A    Havel's Greatshield
+WP_1600_A    Gyrm Greatshield
+WP_1610_A    Pursuer's Greatshield
+WP_1620_A    Pate's Shield
+WP_1630_A    Old Knight Greatshield
+WP_1640_A    Drakekeeper's Greatshield
+WP_1650_A    Greatshield of Glory
+WP_1700_A    Phoenix Parma
+WP_1710_A    Sunlight Parma
+WP_1720_A    Watchdragon Parma
+WP_1730_A    Blossom Kite Shield
+WP_1740_A    Rebel's Greatshield
+WP_1750_A    Wicked Eye Greatshield
+WP_1800_A    Black Flamestone Parma
+WP_1810_A    Yellow Quartz Shield
+WP_1820_A    Bound Wooden Shield
+WP_1830_A    Homunculus Wooden Shield
+WP_1840_A    Transgressor's Leather Shield
+
+ARMORS
+HD_1010_A    Pate's Helm
+BD_1010_A    Pate's Armor
+AM_1010_A    Pate's Gloves
+LG_1010_A    Pate's Trousers
+HD_1020_A    Thief Mask
+BD_1020_A    Black Leather Armor
+AM_1020_A    Black Leather Gloves
+LG_1020_A    Black Leather Boots
+HD_1030_A    Wanderer Hood
+BD_1030_A    Wanderer Coat
+AM_1030_A    Wanderer Manchettes
+LG_1030_A    Wanderer Boots
+HD_1040_A    Hunter's Hat
+BD_1040_A    Leather Armor
+AM_1040_A    Leather Gloves
+LG_1040_A    Leather Boots
+HD_1041_A    Hunter's Hat
+HD_1050_A    Knight Helm
+BD_1050_A    Knight Armor
+AM_1050_A    Knight Gauntlets
+LG_1050_A    Knight Leggings
+HD_1060_A    Elite Knight Helm
+BD_1060_A    Elite Knight Armor
+AM_1060_A    Elite Knight Gloves
+LG_1060_A    Elite Knight Leggings
+HD_1070_A    Tattered Cloth Hood
+BD_1070_A    Tattered Cloth Robe
+AM_1070_A    Tattered Cloth Manchettes
+LG_1070_A    Heavy Boots
+HD_1080_A    Brigand Hood
+BD_1080_A    Brigand Armor
+AM_1080_A    Brigand Gauntlets
+LG_1080_A    Brigand Trousers
+HD_1100_A    Imported Hood
+BD_1100_A    Imported Tunic
+AM_1100_A    Imported Manchettes
+LG_1100_A    Imported Trousers
+HD_1140_A    Traveling Merchant Hat
+BD_1140_A    Traveling Merchant Coat
+AM_1140_A    Traveling Merchant Gloves
+LG_1140_A    Traveling Merchant Boots
+HD_1160_A    Havel's Helm
+BD_1160_A    Havel's Armor
+AM_1160_A    Havel's Gauntlets
+LG_1160_A    Havel's Leggings
+HD_1210_A    Jester's Cap
+BD_1210_A    Jester's Robes
+AM_1210_A    Jester's Gloves
+LG_1210_A    Jester's Tights
+HD_1230_A    Moon Hat
+BD_1230_A    Astrologist's Robe
+AM_1230_A    Astrologist's Gauntlets
+LG_1230_A    Astrologist's Bottoms
+HD_1320_A    Faraam Helm
+BD_1320_A    Faraam Armor
+AM_1320_A    Faraam Gauntlets
+LG_1320_A    Faraam Boots
+HD_1330_A    Black Dragon Helm
+BD_1330_A    Black Dragon Armor
+AM_1330_A    Black Dragon Gauntlets
+LG_1330_A    Black Dragon Leggings
+HD_1340_A    Xanthous Crown
+BD_1340_A    Xanthous Overcoat
+AM_1340_A    Xanthous Gloves
+LG_1340_A    Xanthous Waistcloth
+HD_1350_A    Mask of Judgment
+BD_1350_A    Robe of Judgment
+AM_1350_A    Manchettes of Judgment
+LG_1350_A    Tights of Judgment
+HD_1360_A    Helm of Aurous
+BD_1360_A    Armor of Aurous
+AM_1360_A    Gauntlets of Aurous
+LG_1360_A    Leggings of Aurous
+HD_1361_A    Helm of Aurous
+BD_1361_A    Armor of Aurous
+AM_1361_A    Gauntlets of Aurous
+LG_1361_A    Leggings of Aurous
+HD_1370_A    Monastery Headcloth
+BD_1370_A    Monastery Longshirt
+AM_1370_A    Monastery Long Gloves
+LG_1370_A    Monastery Skirt
+HD_1390_A    Dingy Hood
+BD_1390_A    Dingy Robe
+AM_1390_A    Dingy Cuffs
+LG_1390_A    Blood-Stained Skirt
+HD_1430_A    Durgo's Hat
+AM_1440_A    Engraved Gauntlets
+BD_1450_A    Barrel
+LG_1460_A    Flying Feline Boots
+HD_1470_A    Moon Butterfly Hat
+BD_1470_A    Moon Butterfly Wings
+AM_1470_A    Moon Butterfly Cuffs
+LG_1470_A    Moon Butterfly Skirt
+HD_1480_A    Catarina Helm
+BD_1480_A    Catarina Armor
+AM_1480_A    Catarina Gauntlets
+LG_1480_A    Catarina Leggings
+HD_1490_A    Alva Helm
+BD_1490_A    Alva Armor
+AM_1490_A    Alva Gauntlets
+LG_1490_A    Alva Leggings
+HD_1500_A    Black Witch Veil
+BD_1500_A    Black Witch Robe
+AM_1500_A    Black Witch Gloves
+LG_1500_A    Black Witch Trousers
+HD_1501_A    Black Witch Hat
+HD_1502_A    Black Witch Domino Mask
+HD_1600_A    Drakeblood Helm
+BD_1600_A    Drakeblood Armor
+AM_1600_A    Drakeblood Gauntlets
+LG_1600_A    Drakeblood Leggings
+HD_1610_A    Northwarder Hood
+BD_1610_A    Northwarder Robe
+AM_1610_A    Northwarder Manchettes
+LG_1610_A    Northwarder Trousers
+HD_1630_A    Crown of the Old Iron King
+HD_1640_A    Crown of the Ivory King
+HD_1650_A    Crown of the Sunken King
+HD_1660_A    Old Bell Helm
+HD_1670_A    Hollow Skin
+HD_1680_A    Pharros Mask
+LG_1690_A    Flower Skirt
+HD_1700_A    Minotaur Helm
+HD_1710_A    Symbol of Avarice
+HD_2020_A    Hollow Soldier Helm
+BD_2020_A    Hollow Soldier Armor
+AM_2020_A    Hollow Soldier Gauntlets
+LG_2020_A    Hollow Soldier Leggings
+HD_2021_A    Royal Soldier Helm
+BD_2021_A    Royal Soldier Armor
+AM_2021_A    Royal Soldier Gauntlets
+LG_2021_A    Royal Soldier Leggings
+HD_2030_A    Hollow Infantry Helm
+BD_2030_A    Hollow Infantry Armor
+AM_2030_A    Hollow Infantry Gloves
+LG_2030_A    Hollow Infantry Boots
+HD_2031_A    Infantry Helm
+BD_2031_A    Infantry Armor
+AM_2031_A    Infantry Gloves
+LG_2031_A    Infantry Boots
+HD_2060_A    White Priest Headpiece
+BD_2060_A    White Priest Robe
+AM_2060_A    White Priest Gloves
+LG_2060_A    White Priest Skirt
+HD_2062_A    Priestess Headpiece
+BD_2062_A    Priestess Robe
+AM_2062_A    Priestess Gloves
+LG_2062_A    Priestess Skirt
+HD_2080_A    Rogue Hood
+BD_2080_A    Rogue Armor
+AM_2080_A    Rogue Gauntlets
+LG_2080_A    Rogue Leggings
+HD_2110_A    Spiked Bandit Helm
+BD_2110_A    Bandit Armor
+AM_2110_A    Bandit Gauntlets
+LG_2110_A    Bandit Boots
+HD_2130_A    Varangian Helm
+BD_2130_A    Varangian Armor
+AM_2130_A    Varangian Cuffs
+LG_2130_A    Varangian Leggings
+HD_2180_A    Black Hollow Mage Hood
+BD_2180_A    Black Hollow Mage Robe
+HD_2182_A    White Hollow Mage Hood
+BD_2182_A    White Hollow Mage Robe
+BD_2190_A    Lion Mage Robe
+AM_2190_A    Lion Mage Cuffs
+LG_2190_A    Lion Mage Skirt
+HD_2220_A    Steel Helm
+BD_2220_A    Steel Armor
+AM_2220_A    Steel Gauntlets
+LG_2220_A    Steel Leggings
+HD_2230_A    Shadow Mask
+BD_2230_A    Shadow Top
+AM_2230_A    Shadow Gauntlets
+LG_2230_A    Shadow Leggings
+HD_2240_A    Manikin Mask
+BD_2240_A    Manikin Top
+AM_2240_A    Manikin Gloves
+LG_2240_A    Manikin Boots
+HD_2270_A    Prisoner's Hood
+BD_2270_A    Prisoner's Tatters
+AM_2270_A    Prisoner's Gloves
+LG_2270_A    Prisoner's Waistcloth
+HD_2271_A    Prisoner's Hood
+BD_2271_A    Prisoner's Tatters
+HD_2310_A    Archdrake Helm
+BD_2310_A    Archdrake Robes
+AM_2310_A    Archdrake Gloves
+LG_2310_A    Archdrake Boots
+HD_2350_A    Gyrm Warrior Helm
+BD_2350_A    Gyrm Warrior Armor
+AM_2350_A    Gyrm Warrior Gloves
+LG_2350_A    Gyrm Warrior Boots
+HD_2351_A    Gyrm Warrior Greathelm
+HD_2360_A    Dark Mask
+BD_2360_A    Dark Armor
+AM_2360_A    Dark Gauntlets
+LG_2360_A    Dark Leggings
+HD_2370_A    Warlock Mask
+HD_2460_A    Tseldora Cap
+BD_2460_A    Tseldora Robe
+AM_2460_A    Tseldora Manchettes
+LG_2460_A    Tseldora Trousers
+AM_4847_A    Peasant Hat
+AM_7555_A    Peasant Attire
+HD_2510_A    Ironclad Helm
+BD_2510_A    Ironclad Armor
+AM_2510_A    Ironclad Gauntlets
+LG_2510_A    Ironclad Leggings
+AM_3039_A    Old Ironclad Helm
+AM_8627_A    Old Ironclad Armor
+HD_2520_A    Royal Swordsman Helm
+BD_2520_A    Royal Swordsman Armor
+AM_2520_A    Royal Swordsman Gloves
+LG_2520_A    Royal Swordsman Leggings
+HD_2530_A    Syan's Helm
+BD_2530_A    Syan's Armor
+AM_2530_A    Syan's Gauntlets
+LG_2530_A    Syan's Leggings
+HD_2540_A    Bone Crown
+BD_2540_A    Bone King Robe
+AM_2540_A    Bone King Cuffs
+LG_2540_A    Bone King Skirt
+HD_3010_A    Heide Knight Greathelm
+BD_3010_A    Heide Knight Chainmail
+AM_3010_A    Heide Knight Gauntlets
+LG_3010_A    Heide Knight Leggings
+HD_3011_A    Heide Knight Iron Mask
+BD_3040_A    Singer's Dress
+BD_3041_A    Singer's Dress
+BD_3042_A    Singer's Dress
+HD_3050_A    Smelter Demon Helm
+BD_3050_A    Smelter Demon Armor
+AM_3050_A    Smelter Demon Gauntlets
+LG_3050_A    Smelter Demon Leggings
+HD_3060_A    Alonne Captain Helm
+BD_3060_A    Alonne Captain Armor
+HD_3061_A    Alonne Knight Helm
+BD_3061_A    Alonne Knight Armor
+AM_3061_A    Alonne Knight Gauntlets
+LG_3061_A    Alonne Knight Leggings
+HD_3070_A    Vengarl's Helm
+BD_3070_A    Vengarl's Armor
+AM_3070_A    Vengarl's Gloves
+LG_3070_A    Vengarl's Boots
+BD_3080_A    Lion Warrior Cape
+AM_3080_A    Lion Warrior Cuffs
+LG_3080_A    Lion Warrior Skirt
+HD_3081_A    Lion Warrior Helm
+BD_3081_A    Red Lion Warrior Cape
+HD_3120_A    Grave Warden Mask
+BD_3120_A    Grave Warden Top
+AM_3120_A    Grave Warden Cuffs
+LG_3120_A    Grave Warden Bottoms
+HD_3130_A    Falconer Helm
+BD_3130_A    Falconer Armor
+AM_3130_A    Falconer Gloves
+LG_3130_A    Falconer Boots
+HD_3140_A    Rusted Mastodon Helm
+BD_3140_A    Rusted Mastodon Armor
+AM_3140_A    Rusted Mastodon Gauntlets
+LG_3140_A    Rusted Mastodon Leggings
+HD_3160_A    Desert Sorceress Hood
+BD_3160_A    Desert Sorceress Top
+AM_3160_A    Desert Sorceress Gloves
+LG_3160_A    Desert Sorceress Skirt
+HD_3170_A    Dragon Acolyte Mask
+BD_3170_A    Dragon Acolyte Robe
+AM_3170_A    Dragon Acolyte Gloves
+LG_3170_A    Dragon Acolyte Boots
+HD_3171_A    Dragon Sage Hood
+HD_3250_A    Ruin Helm
+BD_3250_A    Ruin Armor
+AM_3250_A    Ruin Gauntlets
+LG_3250_A    Ruin Leggings
+HD_3300_A    Old Knight Helm
+BD_3300_A    Old Knight Armor
+AM_3300_A    Old Knight Gauntlets
+LG_3300_A    Old Knight Leggings
+HD_3310_A    Drakekeeper Helm
+BD_3310_A    Drakekeeper Armor
+AM_3310_A    Drakekeeper Gauntlets
+LG_3310_A    Drakekeeper Boots
+HD_3320_A    Throne Defender Helm
+BD_3320_A    Throne Defender Armor
+AM_3320_A    Throne Defender Gauntlets
+LG_3320_A    Throne Defender Leggings
+HD_3330_A    Velstadt's Helm
+BD_3330_A    Velstadt's Armor
+AM_3330_A    Velstadt's Gauntlets
+LG_3330_A    Velstadt's Leggings
+HD_3340_A    Throne Watcher Helm
+BD_3340_A    Throne Watcher Armor
+AM_3340_A    Throne Watcher Gauntlets
+LG_3340_A    Throne Watcher Leggings
+HD_5040_A    Looking Glass Mask
+BD_5040_A    Looking Glass Armor
+AM_5040_A    Looking Glass Gauntlets
+LG_5040_A    Looking Glass Leggings
+BD_5060_A    Agdayne's Black Robe
+AM_5060_A    Agdayne's Cuffs
+LG_5060_A    Agdayne's Kilt
+HD_5090_A    Leydia Black Hood
+BD_5090_A    Leydia Black Robe
+HD_5100_A    Insolent Helm
+BD_5100_A    Insolent Armor
+AM_5100_A    Insolent Gloves
+LG_5100_A    Insolent Boots
+HD_5110_A    Imperious Helm
+BD_5110_A    Imperious Armor
+AM_5110_A    Imperious Gloves
+LG_5110_A    Imperious Leggings
+HD_5120_A    Leydia White Hood
+BD_5120_A    Leydia White Robe
+AM_5120_A    Leydia Gauntlets
+HD_5130_A    King's Crown
+BD_5130_A    King's Armor
+AM_5130_A    King's Gauntlets
+LG_5130_A    King's Leggings
+HD_6100_A    Dragonrider Helm
+BD_6100_A    Dragonrider Armor
+AM_6100_A    Dragonrider Gauntlets
+LG_6100_A    Dragonrider Leggings
+HD_6180_A    Executioner Helm
+BD_6180_A    Executioner Armor
+AM_6180_A    Executioner Gauntlets
+LG_6180_A    Executioner Leggings
+HD_6260_A    Penal Mask
+BD_6260_A    Penal Straightjacket
+AM_6260_A    Penal Handcuffs
+LG_6260_A    Penal Skirt
+HD_6510_A    Fume Sorcerer Mask
+BD_6510_A    Fume Sorcerer Robes
+AM_6510_A    Fume Sorcerer Gloves
+LG_6510_A    Fume Sorcerer Boots
+HD_6590_A    Rampart Golem Helm
+BD_6590_A    Rampart Golem Armor
+AM_6590_A    Rampart Golem Gauntlets
+LG_6590_A    Rampart Golem Leggings
+HD_6650_A    Sanctum Knight Helm
+BD_6650_A    Sanctum Knight Armor
+AM_6650_A    Sanctum Knight Gauntlets
+LG_6650_A    Sanctum Knight Leggings
+AM_6660_A    Sanctum Soldier Gauntlet
+HD_6700_A    Sanctum Priestess Tiara
+HD_6750_A    Raime's Helm
+BD_6750_A    Raime's Armor
+AM_6750_A    Raime's Gauntlets
+LG_6750_A    Raime's Leggings
+BD_6770_A    Retainer Robe
+HD_6800_A    Alonne's Helm
+BD_6800_A    Alonne's Armor
+AM_6800_A    Alonne's Gauntlets
+LG_6800_A    Alonne's Leggings
+HD_6880_A    Loyce Helm
+BD_6880_A    Loyce Armor
+AM_6880_A    Loyce Gauntlets
+LG_6880_A    Loyce Leggings
+HD_6890_A    Charred Loyce Helm
+BD_6890_A    Charred Loyce Armor
+AM_6890_A    Charred Loyce Gauntlets
+LG_6890_A    Charred Loyce Leggings
+HD_6900_A    Ivory King Helm
+BD_6900_A    Ivory King Armor
+AM_6900_A    Ivory King Gauntlets
+LG_6900_A    Ivory King Leggings
+BD_7210_A    Llewellyn Armor
+AM_7210_A    Llewellyn Gloves
+LG_7210_A    Llewellyn Shoes
+HD_7240_A    Drangleic Helm
+BD_7240_A    Drangleic Mail
+AM_7240_A    Drangleic Gauntlets
+LG_7240_A    Drangleic Leggings
+HD_7420_A    Creighton's Steel Mask
+BD_7420_A    Creighton's Chainmail
+AM_7420_A    Creighton's Chain Gloves
+LG_7420_A    Creighton's Chain Leggings
+HD_7430_A    Benhart's Knight Helm
+BD_7430_A    Benhart's Armor
+AM_7430_A    Benhart's Gauntlets
+LG_7430_A    Benhart's Boots
+HD_7440_A    Standard Helm
+BD_7440_A    Hard Leather Armor
+AM_7440_A    Hard Leather Gauntlets
+LG_7440_A    Hard Leather Boots
+HD_7510_A    Cale's Helm
+BD_7510_A    Cale's Leather Armor
+LG_7510_A    Cale's Shoes
+HD_7520_A    Lucatiel's Mask
+BD_7520_A    Lucatiel's Vest
+AM_7520_A    Lucatiel's Gloves
+LG_7520_A    Lucatiel's Trousers
+HD_7521_A    Mirrah Hat
+HD_7530_A    Bell Keeper Helmet
+BD_7530_A    Bell Keeper Bellyband
+AM_7530_A    Bell Keeper Cuffs
+LG_7530_A    Bell Keeper Trousers
+HD_7550_A    Mad Warrior Mask
+BD_7550_A    Mad Warrior Armor
+AM_7550_A    Mad Warrior Gauntlets
+LG_7550_A    Mad Warrior Leggings
+BD_7630_A    Rosabeth's Dress
+HD_7680_A    Black Hood
+BD_7680_A    Black Robes
+AM_7680_A    Black Gloves
+LG_7680_A    Black Boots
+HD_7690_A    Saint's Hood
+BD_7690_A    Saint's Dress
+AM_7690_A    Saint's Long Gloves
+LG_7690_A    Saint's Trousers
+HD_7700_A    Hexer's Hood
+BD_7700_A    Hexer's Robes
+AM_7700_A    Hexer's Gloves
+LG_7700_A    Hexer's Boots
+HD_7710_A    Chaos Hood
+BD_7710_A    Chaos Robe
+AM_7710_A    Chaos Gloves
+LG_7710_A    Chaos Boots
+HD_7830_A    Nahr Alma Hood
+BD_7830_A    Nahr Alma Robes
+HD_7950_A    Targray's Helm
+BD_7950_A    Targray's Armor
+AM_7950_A    Targray's Manifers
+LG_7950_A    Targray's Leggings
