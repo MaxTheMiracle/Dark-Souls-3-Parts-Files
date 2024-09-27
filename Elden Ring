@@ -29,7 +29,7 @@
 100200	AM_M_1140	Traveler's Gloves
 100300	LG_M_1140	Traveler's Slops
 101100	BD_M_1141	Perfumer's Traveling Garb (Altered)
-120000	HD_M_1160	Alberich's Pointed Hat
+120000	HD_M_9999	Alberich's Pointed Hat
 120100	BD_M_1160	Alberich's Robe
 120200	AM_M_1160	Alberich's Bracers
 120300	LG_M_1160	Alberich's Trousers
@@ -76,7 +76,7 @@
 210000	HD_M_1670	Briar Helm
 210100	BD_M_1670	Briar Armor
 210200	AM_M_1670	Briar Gauntlets
-210300	LG_M_1670	Briar Greaves
+210300	LG_M_9999	Briar Greaves
 211100	BD_M_1671	Briar Armor (Altered)
 220000	HD_M_1680	Page Hood
 220100	BD_M_1680	Page Garb
@@ -309,7 +309,7 @@
 771100	BD_M_1631	Malenia's Armor (Altered)
 780000	HD_M_1660	Veteran's Helm
 780100	BD_M_1660	Veteran's Armor
-780200	AM_M_1660	Veteran's Gauntlets
+780200	AM_M_9999	Veteran's Gauntlets
 780300	LG_M_1660	Veteran's Greaves
 781100	BD_M_1661	Veteran's Armor (Altered)
 790000	HD_M_1850	Bloodhound Knight Helm
@@ -525,7 +525,7 @@
 1750200	AM_M_2370	Haligtree Gauntlets
 1750300	LG_M_2370	Haligtree Greaves
 1760000	HD_M_2380	Gelmir Knight Helm
-1760100	BD_M_2380	Gelmir Knight Armor
+1760100	BD_M_9999	Gelmir Knight Armor
 1760200	AM_M_2380	Gelmir Knight Gauntlets
 1760300	LG_M_2380	Gelmir Knight Greaves
 1761100	BD_M_2381	Gelmir Knight Armor (Altered)
