@@ -1,0 +1,84 @@
+Nightfearers	
+	
+	
+BD_M_5000	 Wylder
+BD_M_5100	 Wylder Dawn
+BD_M_5200	 Wylder Darkness
+BD_M_5300	 Wylder Brooch
+BD_M_5500	 Abysswalker
+BD_M_5600	 Lion Knight
+	
+BD_M_5010	 Guardian
+BD_M_5110	 Guardian Dawn
+BD_M_5210	 Guaridan Darkness
+BD_M_5310	 Guardian Helmet
+BD_M_5510	 Sunlight Knight
+BD_M_5610	 Wayfarer
+	
+BD_M_5020	 Ironeye
+BD_M_5025	 Ironeye (without weapon)
+BD_M_5120	 Ironeye Dawn
+BD_M_5220	 Ironeye Darkness
+BD_M_5320	 Ironeye Detail
+BD_M_5520	 Ringfinger
+BD_M_5620	 Sellsword
+	
+BD_M_5030	 Duchess
+BD_M_5031	 Duchess Hood
+BD_M_5130	 Duchess Dawn
+BD_M_5230	 Duchess Darkness
+BD_M_5330	 Duchess Detail
+BD_M_5530	 Black Leather
+BD_M_5630	 Wraith
+	
+BD_M_5040	 Raider
+BD_M_5140	 Raider Dawn
+BD_M_5240	 Raider Darkness
+BD_M_5340	 Raider Bone
+BD_M_5540	 Rock-like
+BD_M_5640	 Catarina
+	
+BD_M_5050	 Revenant
+BD_M_5150	 Revenant Dawn
+BD_M_5250	 Revenant Darkness
+BD_M_5350	 Revenant Detail
+BD_M_5550	 The Sister in the Painting
+BD_M_5650	 Dragon School
+	
+BD_M_5060	 Recluse Hat
+BD_M_5160	 Recluse Dawn
+BD_M_5260	 Recluse Darkness
+BD_M_5360	 Recluse No Hat
+BD_M_5560	 Heretic Sorcerer
+BD_M_5660	 Emerald Fate
+	
+BD_M_5070	 Executor
+BD_M_5170	 Executor Dawn
+BD_M_5270	 Executor Darkness
+BD_M_5370	 Executor Damaged
+BD_M_5570	 Thorns
+BD_M_5670	 Sable Church
+	
+Weapons	
+	
+WP_M_5000	 Wylder's Greatsword
+WP_M_5001	 Wylder's Small Shield
+WP_M_5002	 Claw Shot
+WP_M_5003	 Onslaught Stake
+WP_M_5010	 Guardian's Halberd
+WP_M_5011	 Guardian's Greatshield
+WP_M_5020	 Ironeye's Bow
+WP_M_5021	 Ironeye's Crossbow
+WP_M_5022	 Single Shot
+WP_M_5023	 Ironeye's Quiver
+WP_M_5024	 Marking
+WP_M_5030	 Duchess's Dagger
+WP_M_5031	 Restage
+WP_M_5032	 Finale
+WP_M_5040	 Raider's Greataxe
+WP_M_5041	 Totem Stella
+WP_M_5051	 Summon Spirit
+WP_M_5052	 Revenant's Cursed Claws 
+WP_M_5060	 Recluse's Staff
+WP_M_5070	 Executor's Blade
+WP_M_5071	 Cursed Sword
